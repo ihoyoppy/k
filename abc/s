@@ -1,5 +1,27 @@
+<!DOCTYPE>
+<HTML>
+<body style="font-size:40px:">
 <script>
-
- document.write("wtf moment<BR>")
+ 
+ //it's toy
+ const WTF_POG1 = 500pp
+ const WTF_POG2 = 600pp
+ const WTF_POG3 = 700pp
+ const WTF_POG4 = 800pp
+ const WTF_POG5 = 900pp
+ const WTF_POG6 = 1000pp
+ 
+ let myName ="";
+ let myPP = ;
+ if( my
+ document.write(myName + "'s WTF moment<BR>");
+ 
+ 
+ 
+ 
+ 
+ 
  
 </script>
+</body>
+</HTML>
